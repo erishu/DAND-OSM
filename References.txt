@@ -1,0 +1,4 @@
+﻿References
+
+
+*** To prepare for this project, I followed the recommendation to begin by adapting the code from the Case Study quizzes. My dataworking.py data cleaning file is based on my answer to Quiz 11: Preparing For Database-SQL. The structure of my answer code for that quiz is based on a structure suggested by Myles in the forums under the thread: DAND: Data Wrangling SQL: Prepare for Database (SQL)
